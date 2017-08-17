@@ -1,0 +1,12 @@
+{
+  "name": "sheng-ji",
+  "version": "1.0.0",
+  "description": "Online Sheng-Ji Game",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
