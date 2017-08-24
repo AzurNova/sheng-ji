@@ -28,7 +28,7 @@ npm install
 
 For Javascript linting using ESLint, run
 ```
-Give an example
+//TODO//
 ```
 ### End-to-End Tests
 
